@@ -3,7 +3,7 @@
 
 **Author:** Jason "Jay" Nelson  
 **Date:** April 2026 (Original: December 2025)  
-**Version:** 2.0 — Updated for current regulatory environment  
+**Version:** 2.1 — Updated for current regulatory environment  
 **Status:** Security Research White Paper  
 
 ---
@@ -1144,9 +1144,9 @@ The solution is a world where:
 ### Primary Sources
 
 1. **GovTech Hunter Codebase**
-   - GitHub: [Repository URL]
-   - Documentation: [Docs URL]
-   - Live Demo: [Demo URL]
+   - GitHub: https://github.com/apex-ronin
+   - Documentation: https://github.com/apex-ronin/Rise-Of-The-Prompt-Kiddie
+   - Live Demo: Available on request — contact via GitHub
 
 2. **Red Team Simulation Results**
    - Full Dataset: `threat_assessment.json`
@@ -1169,9 +1169,9 @@ The solution is a world where:
 
 ---
 
-**Document Version:** 2.0  
+**Document Version:** 2.1  
 **Originally Published:** December 2025  
-**Last Updated:** April 8, 2026  
+**Last Updated:** June 4, 2026  
 **Classification:** Public Release  
 **License:** Creative Commons Attribution 4.0 (CC BY 4.0)
 
