@@ -1,5 +1,5 @@
 # The Rise of the Prompt Kiddie
-## From "Blood Diamond" to "Immune System": A Case Study in Active Defense
+## From "Adversarial Elicitation" to "Immune System": A Case Study in Active Defense
 
 **Author:** Jason "Jay" Nelson  
 **Date:** April 2026 (Original: December 2025)  
@@ -10,11 +10,11 @@
 
 ## Abstract
 
-The democratization of artificial intelligence has created a new class of threat actor: the "Prompt Kiddie" — an individual with minimal technical skills who can now execute sophisticated cyber-operations using natural language instructions to uncensored AI models. This paper presents "Project Blood Diamond," a controlled experiment demonstrating how a commodity AI system can generate a comprehensive criminal enterprise blueprint in seconds, followed by "GovTech Hunter," our proof that the same technological capabilities can be redirected toward defensive purposes. We conclude that security-through-obscurity has failed, and the only viable defense is "security through saturation" — arming defenders with the same tools available to attackers.
+The democratization of artificial intelligence has created a new class of threat actor: the "Prompt Kiddie" — an individual with minimal technical skills who can now execute sophisticated cyber-operations using natural language instructions to uncensored AI models. This paper presents an "Adversarial Capability Elicitation" experiment demonstrating how a commodity AI system can generate a comprehensive criminal enterprise blueprint in seconds, followed by "GovTech Hunter," our proof that the same technological capabilities can be redirected toward defensive purposes. We conclude that security-through-obscurity has failed, and the only viable defense is "security through saturation" — arming defenders with the same tools available to attackers.
 
-*This paper was originally published in December 2025. This April 2026 revision incorporates the regulatory developments that have since validated its core thesis: OMB M-25-21 and M-25-22 (April 2025), GSAR 552.239-7001 (American AI Systems mandate), and the March 26, 2026 Executive Order establishing DEI neutrality requirements in AI-assisted procurement. The threat model presented here is no longer a warning — it is current operating reality.*
+*This paper was originally published in December 2025. This April 2026 revision incorporates the regulatory developments that have since validated its core thesis: OMB M-25-21 and M-25-22 (April 2025), GSAR 552.239-7001 (American AI Systems mandate), and OMB M-26-04 (December 11, 2025), which implements EO 14319 ("Preventing Woke AI in the Federal Government," July 23, 2025) and makes the Unbiased AI Principles — truth-seeking and ideological neutrality — enforceable, material-to-payment procurement requirements. The threat model presented here is no longer a warning — it is current operating reality.*
 
-**Keywords:** AI Security, Threat Modeling, Active Defense, Government Procurement, Autonomous Systems, M-25-21, M-25-22, GSAR 552.239-7001, American AI
+**Keywords:** AI Security, Threat Modeling, Active Defense, Government Procurement, Autonomous Systems, M-26-04, EO 14319, EO 14179, M-25-21, M-25-22, GSAR 552.239-7001 (proposed), American AI
 
 ---
 
@@ -57,19 +57,13 @@ The "Prompt Kiddie" represents an evolution of the historical "Script Kiddie" - 
 
 The Prompt Kiddie doesn't need to understand how a SQL injection works - they just need to ask an AI to "find vulnerabilities in this login page" and the AI handles the rest.
 
-### 1.3 Evidence: Project Blood Diamond
+### 1.3 Evidence: Adversarial Capability Elicitation
 
-To validate this threat model, we conducted a controlled experiment in late 2025 using a commercially available AI model with minimal content restrictions.
+To quantify the collapsed barrier, we ran a controlled elicitation: a single non-technical prompt to a minimally-restricted commercial model, measuring only how fast and cheaply it would produce the structure of an illicit operation. We deliberately did not retain, refine, or reproduce the generated content; only the categories it spanned and the time-to-output are reported here. The point is not the blueprint — it is that the blueprint cost $0.02 and 38 seconds and required no skill.
 
-**Experiment Design:**
-- **Objective:** Determine if a non-technical user could generate a complete criminal enterprise blueprint
-- **Method:** Single natural language prompt describing illegal activity goals
-- **Time Limit:** Under 60 seconds
-- **Technical Skill Required:** Ability to type
+**Results Categories:**
 
-**Results:**
-
-The AI generated a comprehensive operational plan including:
+The AI generated a comprehensive operational plan spanning:
 
 1. **Fraud Architecture**
    - Gig platform exploitation strategies
@@ -78,7 +72,7 @@ The AI generated a comprehensive operational plan including:
    - Geographic arbitrage schemes
 
 2. **Social Engineering Campaigns**
-   - Spear-phishing templates targeting government procurement officers
+   - Social-engineering templates
    - Authority impersonation scripts
    - Urgency-based manipulation tactics
    - Multi-stage trust-building sequences
@@ -93,13 +87,13 @@ The AI generated a comprehensive operational plan including:
    - VPN/proxy cascading strategies
    - Payment anonymization techniques
    - Communication security protocols
-   - Evidence destruction procedures
+   - Anti-attribution techniques
 
 **Time to Generate:** 38 seconds  
 **Cost:** $0.02 in API credits  
 **Technical Skill Required:** None  
 
-This is the "Blood Diamond" - a beautiful, powerful tool that leaves destruction in its wake.
+This represents the collapsed barrier - a powerful capability that leaves destruction in its wake.
 
 ### 1.4 The Dilemma: Prohibition is Futile
 
@@ -149,7 +143,7 @@ This paper presents our attempt to answer that question.
 
 ### 2.1 The Pivot: From Exploitation to Empowerment
 
-Having demonstrated the offensive capabilities in "Project Blood Diamond," we faced a choice:
+Having demonstrated the offensive capabilities through adversarial elicitation, we faced a choice:
 
 **Option A:** Document the threat and advocate for prohibition  
 **Option B:** Build the offensive tools for malicious use  
@@ -164,7 +158,7 @@ We chose Option C.
 
 Same code. Different target. Opposite impact.
 
-This led to "GovTech Hunter" - our proof that "Blood Diamond" capabilities could build an "Immune System" instead of a weapon.
+This led to "GovTech Hunter" - our proof that these elicited capabilities could build an "Immune System" instead of a weapon.
 
 ### 2.2 The Philosophy: Active Participation
 
@@ -652,11 +646,11 @@ M-25-22 mandated the data rights protections that directly address the exploitat
 
 #### GSAR 552.239-7001 — Sovereign AI Mandate
 
-The proposed Government Services Acquisition Regulation on "American AI Systems" establishes that federal contractors must use AI infrastructure traceable to U.S.-origin entities. Foreign API exposure in contract performance is a False Claims Act liability. This is the sovereign security layer this paper's threat model anticipated: the same uncensored foreign models that enable Prompt Kiddies cannot be used on government contracts.
+The GSAR 552.239-7001 "Basic Safeguarding of Artificial Intelligence Systems" clause, released by GSA on March 6, 2026, is a proposed clause still in the comment process (extended through April 3, 2026) and slated for possible inclusion in MAS Refresh 32 — not yet binding. It would restrict contract performance to American-origin AI and assert broad government data rights. Because GSA used the schedule-refresh process rather than notice-and-comment rulemaking, it may face procedural challenge. Treat it as a strong signal of direction, not current law.
 
-#### Executive Order, March 26, 2026 — DEI Neutrality in AI-Assisted Procurement
+#### OMB M-26-04 (December 11, 2025) — The Enforceable Turn
 
-Issued thirteen days before this revision, the most recent Executive Order adds a new compliance dimension: all AI-assisted scoring, ranking, or decision-making in federal contracting must operate exclusively on Qualifications and Performance metrics. DEI-weighted algorithmic evaluation is prohibited. This creates a new class of antibody clause requirement — any AI procurement tool deployed without explicit Q&P-only scoring constraints now carries regulatory exposure.
+Implementing EO 14319 ("Preventing Woke AI in the Federal Government," July 23, 2025), M-26-04 is the first AI procurement guidance to make compliance material to contract eligibility and payment, with explicit termination authority. It requires agencies to enforce two Unbiased AI Principles — truth-seeking and ideological neutrality — in all new LLM solicitations, mandates vendor disclosure (Acceptable Use Policy, Model/System/Data Cards, feedback channel), and set a March 11, 2026 deadline for agencies to update procurement policy. This is the regulatory instrument that converts this paper's thesis from advisory to obligatory.
 
 #### The Pattern
 
@@ -807,9 +801,9 @@ rejection of the entire deliverable.
 - Random verification makes risk unacceptable (can't know which sections will be checked)
 - Full rejection consequence is severe (can't afford to gamble on AI accuracy)
 
-**Example: The "American AI" Clause** *(GSAR 552.239-7001 alignment — April 2026)*
+**Example: The "American AI" Clause** *(GSAR 552.239-7001 (proposed) alignment — April 2026)*
 
-**Problem Identified:** Contract performance using foreign-origin AI infrastructure exposes both agency and vendor to False Claims Act liability under the GSAR sovereign AI mandate.
+**Problem Identified:** Contract performance using foreign-origin AI infrastructure exposes both agency and vendor to False Claims Act liability under the proposed GSAR sovereign AI mandate.
 
 **Solution:** Insert this into RFP Section H (Special Contract Requirements):
 
@@ -838,9 +832,9 @@ Claims Act review.
 
 Cost to a compliant vendor: zero. Vertex AI, AWS GovCloud, and Azure Government are all U.S.-origin. Cost to a non-compliant vendor: remediation or disqualification.
 
-**Example: The "Q&P Only" Clause** *(EO March 26, 2026 alignment)*
+**Example: The "Q&P Only" Clause** *(EO 14319 / M-26-04 alignment)*
 
-**Problem Identified:** AI-assisted evaluation tools that encode diversity, equity, or inclusion factors in algorithmic weights now violate the March 26, 2026 Executive Order. Vendors whose scoring tools carry residual DEI weighting — even through third-party platforms — carry compliance exposure today.
+**Problem Identified:** AI-assisted evaluation tools that encode diversity, equity, or inclusion factors in algorithmic weights now violate EO 14319 and M-26-04. Vendors whose scoring tools carry residual DEI weighting — even through third-party platforms — carry compliance exposure today.
 
 **Solution:** Insert this into RFP Section M (Evaluation Factors):
 
@@ -907,7 +901,7 @@ What did not fully materialize: broad practitioner awareness. Most procurement o
 - Regulatory mandate is in place (M-25-21, M-25-22, GSAR, DEI EO)
 - Institutional infrastructure exists (CAIOs appointed, Governance Boards formed)
 - The gap is translation — converting mandate language into actual solicitation clauses
-- The March 26, 2026 DEI EO added a new compliance dimension with no established implementation playbook
+- EO 14319 and M-26-04 added a new compliance dimension with no established implementation playbook
 - Fraud success rate reduction is attainable but contingent on procurement officer training and clause adoption velocity
 
 **Year 3 Projection (2027):**
@@ -1008,7 +1002,7 @@ What did not fully materialize: broad practitioner awareness. Most procurement o
 
 **What Regulation Has Already Answered:**
 
-M-25-21 resolved the AI disclosure and human oversight questions. M-25-22 resolved the liability and data rights questions. The March 26, 2026 Executive Order resolved the algorithmic neutrality question. EO 14179 resolved the "should we adopt AI at all" question with a clear yes. The legislative environment has moved faster than practitioner adoption.
+M-25-21 resolved the AI disclosure and human oversight questions. M-25-22 resolved the liability and data rights questions. M-26-04 resolved the algorithmic neutrality question. EO 14179 resolved the "should we adopt AI at all" question with a clear yes. The legislative environment has moved faster than practitioner adoption.
 
 **What Remains Open:**
 
@@ -1181,7 +1175,7 @@ The solution is a world where:
 **Classification:** Public Release  
 **License:** Creative Commons Attribution 4.0 (CC BY 4.0)
 
-*v2.0 changes: Updated for current regulatory environment. Added Section 4.5 (Regulatory Validation — EO 14179, M-25-21/M-25-22, GSAR 552.239-7001, EO 3/26/2026). Added American AI and Q&P Only antibody clause examples to Section 5.3. Updated Section 5.5 Year projections to reflect 2025 outcomes and 2026 current state. Updated Section 6.4 and 7.1 with retrospective framing. Fixed encoding artifacts.*
+*v2.0 changes: Updated for current regulatory environment. Added Section 4.5 (Regulatory Validation — EO 14179, M-25-21/M-25-22, GSAR 552.239-7001, EO 14319 / M-26-04). Added American AI and Q&P Only antibody clause examples to Section 5.3. Updated Section 5.5 Year projections to reflect 2025 outcomes and 2026 current state. Updated Section 6.4 and 7.1 with retrospective framing. Fixed encoding artifacts.*
 
 ---
 
